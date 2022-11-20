@@ -1,0 +1,14 @@
+#logo{
+      width: 130px;
+      font-size: 32px;
+      color: #0084ff;
+      font-weight: 800;
+}
+body{
+      background-color: #f2f6ff;
+}
+#logostories{
+      margin: 0;
+      font-weight: 500;
+      font: Raleway;
+}
